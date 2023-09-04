@@ -90,5 +90,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ginimessersmith&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 ![ginimessersmith GitHub stats](https://github-readme-stats.vercel.app/api?username=ginimessersmith&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginimessersmith)]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginimessersmith)
 
