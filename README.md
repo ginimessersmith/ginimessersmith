@@ -16,3 +16,72 @@
 - 📫 How to reach me: you can reach me at ginobaptista@gmail.com or on [Instagram](https://www.instagram.com/ginimessersmith96/).
 - 😄 Pronouns: giniiss
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  **Languages**
+  <p align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,py,dart,php" />
+  </a>
+  </p>
+</td>
+</tr>
+<tr border="none">
+<td width="50%" align="center">    
+  
+  **Front-End Development**
+ <p align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=angular,react,flutter" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,css,sass,html" />
+  </a>
+  </p>
+</td>
+</tr>
+<tr border="none">
+<td width="50%" align="center">
+  
+  **Back-End Development and DataBase**
+ <p align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel" />
+  </a>
+   <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase" />
+  </a>
+  </p>
+</td>
+</tr>
+<tr border="none">
+<td width="50%" align="center">
+  
+**Cloud Hosting**
+ <p align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=firebase,gcp,heroku" />
+  </a>
+  </p>
+</td>
+</tr>
+<tr border="none">
+<td width="50%" align="center">
+  
+  **Softwares and Tools** 
+   <p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,postman,powershell" />
+    </a>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,vscode" />
+    </a>
+    </p>
+</td>
+</tr>  
+
+</p>  
+</table>
+
