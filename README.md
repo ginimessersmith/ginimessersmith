@@ -35,9 +35,9 @@ Hi there 👋
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200"/>
-    <h1 align="center">Hi there 👋</h1>
+    <h1 align="center">Hi, I'm Gino Baptista G. 👋</h1>
 </div>
-<h1 >
+<div align="right">
  About Me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -47,4 +47,4 @@ Hi there 👋
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-</h1>
+</div>
