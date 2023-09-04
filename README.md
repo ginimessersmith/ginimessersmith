@@ -17,7 +17,7 @@
 - 😄 Pronouns: giniiss
 - ⚡ Fun fact: My hobby is playing video games and listening to music while I'm developing.
 
-<table align="center">
+<table align="left">
 <tr border="none">
 <td width="50%" align="center">
   
@@ -86,5 +86,9 @@
 </p>  
 </table>
 
+### My Status
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ginimessersmith&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+![ginimessersmith GitHub stats](https://github-readme-stats.vercel.app/api?username=ginimessersmith&show_icons=true&theme=transparent)
 
