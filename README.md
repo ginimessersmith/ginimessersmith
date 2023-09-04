@@ -17,7 +17,7 @@
 - 😄 Pronouns: giniiss
 - ⚡ Fun fact: My hobby is playing video games and listening to music while I'm developing.
 
-<table align="left">
+<table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
