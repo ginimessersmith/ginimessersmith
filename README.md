@@ -15,6 +15,7 @@
 - 💬 Ask me about JavaScript, TypeScript, Java, Python, Flutter, and NestJS.
 - 📫 How to reach me: you can reach me at ginobaptista@gmail.com or on [Instagram](https://www.instagram.com/ginimessersmith96/).
 - 😄 Pronouns: giniiss
+- ⚡ Fun fact: My hobby is playing video games and listening to music while I'm developing.
 
 <table align="center">
 <tr border="none">
