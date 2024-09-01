@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Node.js and Angular.
 - 👯 I’m looking to collaborate on innovative projects where I can learn :D
 - 🤔 I’m looking for help with finding internships.
-- 💬 Ask me about JavaScript, TypeScript, Java, Python, Flutter, and NestJS.
+- 💬 Ask me about JavaScript, TypeScript, Python, Flutter, and NestJS.
 - 📫 How to reach me: you can reach me at ginobaptista@gmail.com or on [Instagram](https://www.instagram.com/ginimessersmith96/).
 - 😄 Pronouns: giniiss
 - ⚡ Fun fact: My hobby is playing video games and listening to music while I'm developing.
