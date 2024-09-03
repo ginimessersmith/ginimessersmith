@@ -7,15 +7,48 @@
 ---
 
 ### About me
- About Me
-- 🔭 I’m currently working on personal and university developments.
-- 🌱 I’m currently learning Node.js and Angular.
-- 👯 I’m looking to collaborate on innovative projects where I can learn :D
-- 🤔 I’m looking for help with finding internships.
-- 💬 Ask me about JavaScript, TypeScript, Python, Flutter, and NestJS.
-- 📫 How to reach me: you can reach me at ginobaptista@gmail.com or on [Instagram](https://www.instagram.com/ginimessersmith96/).
-- 😄 Pronouns: giniiss
-- ⚡ Fun fact: My hobby is playing video games and listening to music while I'm developing.
+
+Ingeniero Informático en condición de egresado, con una fuerte pasión por la innovación y el desarrollo tecnológico. He participado en diversos proyectos universitarios que han fortalecido mis habilidades técnicas y de resolución de problemas. Mi enfoque se ha centrado en el desarrollo FrontEnd con Angular y el desarrollo Backend con NodeJs y NestJS.
+
+## 🛠️ Tecnologías y Herramientas
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 🧑‍💻 Sobre mí
+
+- 💼 Desarrollo Frontend con **Angular** y Backend con **Node.js** y **NestJS**.
+- 📱 Desarrollo móvil utilizando **Flutter**.
+- 🚀 Despliegues en **AWS EC2 y S3**.
+- 🎨 Patrones de diseño como **MVC**, **Repository Pattern**, **Arquitectura 3 capas**, **Arquitectura Hexagonal**.
+- 🛠️ Experiencia con **Scrum** y **Agile**.
+- 🌍 Nivel de Inglés: **Básico**.
+
+## 🌱 Actualmente aprendiendo
+
+- **React** y **Flutter**.
+- Mejora continua en técnicas de **DevOps** y despliegues automáticos.
+
+## 💬 Contacto
+
+Puedes contactarme en:
+- **[LinkedIn](https://www.linkedin.com/in/ginobaptistag/)**
+- **[Correo](mailto:ginobaptista@gmail.com)**
+
+
 
 <table align="center">
 <tr border="none">
@@ -24,7 +57,7 @@
   **Languages**
   <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,py,dart,php" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,py,dart" />
   </a>
   </p>
 </td>
@@ -35,10 +68,10 @@
   **Front-End Development**
  <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=angular,react,flutter" />
+  <img src="https://skillicons.dev/icons?i=angular,flutter" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,css,sass,html" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,css,html" />
   </a>
   </p>
 </td>
@@ -49,10 +82,10 @@
   **Back-End Development and DataBase**
  <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs" />
   </a>
    <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
   </a>
   </p>
 </td>
@@ -63,7 +96,7 @@
 **Cloud Hosting**
  <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=firebase,gcp,heroku" />
+  <img src="https://skillicons.dev/icons?i=aws" />
   </a>
   </p>
 </td>
@@ -74,7 +107,7 @@
   **Softwares and Tools** 
    <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,postman,powershell" />
+    <img src="https://skillicons.dev/icons?i=git,docker,postman" />
     </a>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,vscode" />
