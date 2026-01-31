@@ -8,7 +8,7 @@
 
 ### About me
 
-Ingeniero Informático en condición de egresado, con una fuerte pasión por la innovación y el desarrollo tecnológico. He participado en diversos proyectos universitarios que han fortalecido mis habilidades técnicas y de resolución de problemas. Mi enfoque se ha centrado en el desarrollo FrontEnd con Angular y el desarrollo Backend con NodeJs y NestJS.
+Ingeniero Informático, con una fuerte pasión por la innovación y el desarrollo tecnológico. He participado en diversos proyectos universitarios que han fortalecido mis habilidades técnicas y de resolución de problemas. Mi enfoque se ha centrado en el desarrollo FrontEnd con Angular y el desarrollo Backend con NodeJs y NestJS.
 
 ## 🛠️ Tecnologías y Herramientas
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
@@ -118,12 +118,6 @@ Puedes contactarme en:
 
 </p>  
 </table>
-
-### My Status
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ginimessersmith&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-![ginimessersmith GitHub stats](https://github-readme-stats.vercel.app/api?username=ginimessersmith&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginimessersmith)](https://github.com/ginimessersmith/github-readme-stats)
 
 
 
