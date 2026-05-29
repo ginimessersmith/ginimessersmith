@@ -19,7 +19,7 @@ I am passionate about writing clean code, optimizing cloud deployments, and solv
     <img src="https://skillicons.dev/icons?i=javascript,typescript,dart&theme=dark" alt="Languages" /><br><br>
     <img src="https://skillicons.dev/icons?i=angular,flutter,bootstrap,tailwind,html,css&theme=dark" alt="Frontend and Mobile" /><br><br>
     <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mongodb&theme=dark" alt="Backend and Databases" /><br><br>
-    <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode&theme=dark" alt="Tools and Cloud" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,grafana&theme=dark" alt="Tools and Cloud" />
   </a>
 </p>
 
